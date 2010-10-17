@@ -1,0 +1,2108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/eightbitraptor.actor</id>
+  <link type="text/html" rel="alternate" href="https://github.com/eightbitraptor"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/eightbitraptor.private.actor.atom?token=4ec7548d4e071bdc85462077a69bcdf2"/>
+  <title>Private Activity Feed for eightbitraptor</title>
+  <updated>2010-10-17T08:17:17-07:00</updated>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/353383980</id>
+    <published>2010-10-17T08:17:17-07:00</published>
+    <updated>2010-10-17T08:17:17-07:00</updated>
+    <link type="text/html" rel="alternate" href="http://github.com/eightbitraptor/anidbrb/compare/13771ff547...6a95252874"/>
+    <title>eightbitraptor pushed to master at eightbitraptor/anidbrb</title>
+    <author>
+      <name>eightbitraptor</name>
+      <uri>http://github.com/eightbitraptor</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://secure.gravatar.com/avatar/43f0363b6c12155c36d0c06043c268fd?s=30&amp;d=https%3A%2F%2Fgithub.com%2Fimages%2Fgravatars%2Fgravatar-140.png"/>
+    <content type="html">
+
+
+
+
+
+
+&lt;div class="details"&gt;
+  
+
+  
+    &lt;div class="commits"&gt;
+    &lt;ul&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href="http://github.com/eightbitraptor" class="committer"&gt;eightbitraptor&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href="http://github.com/eightbitraptor/anidbrb/commit/6a9525287484e7bba17a398053f27c53d81b3a58"&gt;6a95252&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class="message"&gt;
+          &lt;blockquote&gt;Whitespace fixes and removal of debug info.&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href="http://github.com/eightbitraptor" class="committer"&gt;eightbitraptor&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href="http://github.com/eightbitraptor/anidbrb/commit/775db9ded9c95400923faabed65246940d6e909d"&gt;775db9d&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class="message"&gt;
+          &lt;blockquote&gt;Refactor and simplify main connection codebase.&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href="http://github.com/eightbitraptor" class="committer"&gt;eightbitraptor&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href="http://github.com/eightbitraptor/anidbrb/commit/f78518c5cae8017887474283fbca97aecbe0840b"&gt;f78518c&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class="message"&gt;
+          &lt;blockquote&gt;Initial Commit.&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+
+    
+    &lt;/ul&gt;
+    &lt;/div&gt;
+  
+&lt;/div&gt;
+
+
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:CreateEvent/353383373</id>
+    <published>2010-10-17T08:15:48-07:00</published>
+    <updated>2010-10-17T08:15:48-07:00</updated>
+    <link type="text/html" rel="alternate" href="http://github.com/eightbitraptor/anidbrb/compare/master"/>
+    <title>eightbitraptor created branch master at eightbitraptor/anidbrb</title>
+    <author>
+      <name>eightbitraptor</name>
+      <uri>http://github.com/eightbitraptor</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://secure.gravatar.com/avatar/43f0363b6c12155c36d0c06043c268fd?s=30&amp;d=https%3A%2F%2Fgithub.com%2Fimages%2Fgravatars%2Fgravatar-140.png"/>
+    <content type="html">
+
+
+
+
+
+&lt;div class="details"&gt;
+  
+  &lt;div class="message"&gt;
+    
+      New branch is at
+      &lt;a href="http://github.com/eightbitraptor/anidbrb/tree/master"&gt;eightbitraptor/anidbrb/tree/master&lt;/a&gt;
+      
+    
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:CreateEvent/353383212</id>
+    <published>2010-10-17T08:15:36-07:00</published>
+    <updated>2010-10-17T08:15:36-07:00</updated>
+    <link type="text/html" rel="alternate" href="http://github.com/eightbitraptor/anidbrb"/>
+    <title>eightbitraptor created repository anidbrb</title>
+    <author>
+      <name>eightbitraptor</name>
+      <uri>http://github.com/eightbitraptor</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://secure.gravatar.com/avatar/43f0363b6c12155c36d0c06043c268fd?s=30&amp;d=https%3A%2F%2Fgithub.com%2Fimages%2Fgravatars%2Fgravatar-140.png"/>
+    <content type="html">
+
+
+
+
+
+&lt;div class="details"&gt;
+  
+  &lt;div class="message"&gt;
+    
+      Ruby client lib for the anidb.net UDP API.
+    
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/350037102</id>
+    <published>2010-10-14T08:10:06-07:00</published>
+    <updated>2010-10-14T08:10:06-07:00</updated>
+    <link type="text/html" rel="alternate" href="http://github.com/eightbitraptor/dotfiles/compare/1c7611203d...20aa76be58"/>
+    <title>eightbitraptor pushed to master at eightbitraptor/dotfiles</title>
+    <author>
+      <name>eightbitraptor</name>
+      <uri>http://github.com/eightbitraptor</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://secure.gravatar.com/avatar/43f0363b6c12155c36d0c06043c268fd?s=30&amp;d=https%3A%2F%2Fgithub.com%2Fimages%2Fgravatars%2Fgravatar-140.png"/>
+    <content type="html">
+
+
+
+
+
+
+&lt;div class="details"&gt;
+  
+
+  
+    &lt;div class="commits"&gt;
+    &lt;ul&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href="http://github.com/eightbitraptor" class="committer"&gt;eightbitraptor&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href="http://github.com/eightbitraptor/dotfiles/commit/20aa76be58a71c1c4000ec73aa60a9e2770d8bd7"&gt;20aa76b&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class="message"&gt;
+          &lt;blockquote&gt;swapfile and buffer mgmt vimrc shortcuts&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href="http://github.com/eightbitraptor" class="committer"&gt;eightbitraptor&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href="http://github.com/eightbitraptor/dotfiles/commit/433d3b684bd7dd8c7d5eafad5544b25fdceddec3"&gt;433d3b6&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class="message"&gt;
+          &lt;blockquote&gt;gitconfig aliases and whitespace fixes&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href="http://github.com/eightbitraptor" class="committer"&gt;eightbitraptor&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href="http://github.com/eightbitraptor/dotfiles/commit/5b02334b447b3fd7af4fa6cff809f970ba323df5"&gt;5b02334&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class="message"&gt;
+          &lt;blockquote&gt;some bash fixups&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href="http://github.com/eightbitraptor" class="committer"&gt;eightbitraptor&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href="http://github.com/eightbitraptor/dotfiles/commit/561b4bffa972d3843c5dc562616d40b6b3947dda"&gt;561b4bf&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class="message"&gt;
+          &lt;blockquote&gt;changes.&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+
+    
+    &lt;/ul&gt;
+    &lt;/div&gt;
+  
+&lt;/div&gt;
+
+
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:WatchEvent/338135736</id>
+    <published>2010-10-05T14:48:18-07:00</published>
+    <updated>2010-10-05T14:48:18-07:00</updated>
+    <link type="text/html" rel="alternate" href="http://github.com/brightbox/bigwig"/>
+    <title>eightbitraptor started watching brightbox/bigwig</title>
+    <author>
+      <name>eightbitraptor</name>
+      <uri>http://github.com/eightbitraptor</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://secure.gravatar.com/avatar/43f0363b6c12155c36d0c06043c268fd?s=30&amp;d=https%3A%2F%2Fgithub.com%2Fimages%2Fgravatars%2Fgravatar-140.png"/>
+    <content type="html">
+&lt;div class="details"&gt;
+  
+  &lt;div class="message"&gt;
+    
+      bigwig's description:
+      &lt;blockquote&gt;
+        A daemon for listening to an AMQP/RabbitMQ queue and invoking commands as messages are received
+      &lt;/blockquote&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:FollowEvent/338134817</id>
+    <published>2010-10-05T14:47:16-07:00</published>
+    <updated>2010-10-05T14:47:16-07:00</updated>
+    <link type="text/html" rel="alternate" href="http://github.com/brightbox"/>
+    <title>eightbitraptor started following brightbox</title>
+    <author>
+      <name>eightbitraptor</name>
+      <uri>http://github.com/eightbitraptor</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://secure.gravatar.com/avatar/43f0363b6c12155c36d0c06043c268fd?s=30&amp;d=https%3A%2F%2Fgithub.com%2Fimages%2Fgravatars%2Fgravatar-140.png"/>
+    <content type="html">
+  
+  &lt;div class="details"&gt;
+    
+      
+    
+    &lt;div class="message"&gt;
+      brightbox has
+      16
+      public repos
+      and 38
+     followers.
+    &lt;/div&gt;
+  &lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/336091804</id>
+    <published>2010-10-04T03:10:42-07:00</published>
+    <updated>2010-10-04T03:10:42-07:00</updated>
+    <link type="text/html" rel="alternate" href="http://github.com/reevoo/super-poller/compare/87f82a281f...c28cf094ef"/>
+    <title>eightbitraptor pushed to master at reevoo/super-poller</title>
+    <author>
+      <name>eightbitraptor</name>
+      <uri>http://github.com/eightbitraptor</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://secure.gravatar.com/avatar/43f0363b6c12155c36d0c06043c268fd?s=30&amp;d=https%3A%2F%2Fgithub.com%2Fimages%2Fgravatars%2Fgravatar-140.png"/>
+    <content type="html">
+
+
+
+
+
+
+&lt;div class="details"&gt;
+  
+
+  
+    &lt;div class="commits"&gt;
+    &lt;ul&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href="http://github.com/eightbitraptor" class="committer"&gt;eightbitraptor&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href="http://github.com/reevoo/super-poller/commit/c28cf094ef711097e9e8fa4a95f52224ee68084f"&gt;c28cf09&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class="message"&gt;
+          &lt;blockquote&gt;Version Bump&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href="http://github.com/eightbitraptor" class="committer"&gt;eightbitraptor&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href="http://github.com/reevoo/super-poller/commit/0e59a41ed2f99c8e7aa326e087d59ec10b514f23"&gt;0e59a41&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class="message"&gt;
+          &lt;blockquote&gt;when we want to flush the queue we should call flush.&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+
+    
+    &lt;/ul&gt;
+    &lt;/div&gt;
+  
+&lt;/div&gt;
+
+
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:CreateEvent/324495848</id>
+    <published>2010-09-24T09:35:35-07:00</published>
+    <updated>2010-09-24T09:35:35-07:00</updated>
+    <link type="text/html" rel="alternate" href="http://github.com/eightbitraptor/monitoring_stuff/compare/master"/>
+    <title>eightbitraptor created branch master at eightbitraptor/monitoring_stuff</title>
+    <author>
+      <name>eightbitraptor</name>
+      <uri>http://github.com/eightbitraptor</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://secure.gravatar.com/avatar/43f0363b6c12155c36d0c06043c268fd?s=30&amp;d=https%3A%2F%2Fgithub.com%2Fimages%2Fgravatars%2Fgravatar-140.png"/>
+    <content type="html">
+
+
+
+
+
+&lt;div class="details"&gt;
+  
+  &lt;div class="message"&gt;
+    
+      New branch is at
+      &lt;a href="http://github.com/eightbitraptor/monitoring_stuff/tree/master"&gt;eightbitraptor/monitoring_stuff/tree/master&lt;/a&gt;
+      
+    
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:CreateEvent/324494948</id>
+    <published>2010-09-24T09:34:49-07:00</published>
+    <updated>2010-09-24T09:34:49-07:00</updated>
+    <link type="text/html" rel="alternate" href="http://github.com/eightbitraptor/monitoring_stuff"/>
+    <title>eightbitraptor created repository monitoring_stuff</title>
+    <author>
+      <name>eightbitraptor</name>
+      <uri>http://github.com/eightbitraptor</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://secure.gravatar.com/avatar/43f0363b6c12155c36d0c06043c268fd?s=30&amp;d=https%3A%2F%2Fgithub.com%2Fimages%2Fgravatars%2Fgravatar-140.png"/>
+    <content type="html">
+
+
+
+
+
+&lt;div class="details"&gt;
+  
+  &lt;div class="message"&gt;
+    
+      Some playing with remote log tailing and starling.
+    
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/317359845</id>
+    <published>2010-09-20T03:11:07-07:00</published>
+    <updated>2010-09-20T03:11:07-07:00</updated>
+    <link type="text/html" rel="alternate" href="http://github.com/eightbitraptor/eightbitraptor.com/compare/38ec993a2a...882c393206"/>
+    <title>eightbitraptor pushed to master at eightbitraptor/eightbitraptor.com</title>
+    <author>
+      <name>eightbitraptor</name>
+      <uri>http://github.com/eightbitraptor</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://secure.gravatar.com/avatar/43f0363b6c12155c36d0c06043c268fd?s=30&amp;d=https%3A%2F%2Fgithub.com%2Fimages%2Fgravatars%2Fgravatar-140.png"/>
+    <content type="html">
+
+
+
+
+
+
+&lt;div class="details"&gt;
+  
+
+  
+    &lt;div class="commits"&gt;
+    &lt;ul&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href="http://github.com/eightbitraptor" class="committer"&gt;eightbitraptor&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href="http://github.com/eightbitraptor/eightbitraptor.com/commit/882c39320631a16fc30c958f10842d7dca122ac3"&gt;882c393&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class="message"&gt;
+          &lt;blockquote&gt;fix development mode.&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+
+    
+    &lt;/ul&gt;
+    &lt;/div&gt;
+  
+&lt;/div&gt;
+
+
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/317358691</id>
+    <published>2010-09-20T03:07:21-07:00</published>
+    <updated>2010-09-20T03:07:21-07:00</updated>
+    <link type="text/html" rel="alternate" href="http://github.com/eightbitraptor/eightbitraptor.com/compare/1edf9cb906...38ec993a2a"/>
+    <title>eightbitraptor pushed to master at eightbitraptor/eightbitraptor.com</title>
+    <author>
+      <name>eightbitraptor</name>
+      <uri>http://github.com/eightbitraptor</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://secure.gravatar.com/avatar/43f0363b6c12155c36d0c06043c268fd?s=30&amp;d=https%3A%2F%2Fgithub.com%2Fimages%2Fgravatars%2Fgravatar-140.png"/>
+    <content type="html">
+
+
+
+
+
+
+&lt;div class="details"&gt;
+  
+
+  
+    &lt;div class="commits"&gt;
+    &lt;ul&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href="http://github.com/eightbitraptor" class="committer"&gt;eightbitraptor&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href="http://github.com/eightbitraptor/eightbitraptor.com/commit/38ec993a2a12469932723f175fd5255e1029846b"&gt;38ec993&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class="message"&gt;
+          &lt;blockquote&gt;Merge remote branch 'github/master'&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href="http://github.com/eightbitraptor" class="committer"&gt;eightbitraptor&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href="http://github.com/eightbitraptor/eightbitraptor.com/commit/27b7c0d394b6a3f4751762f17769e692ef3c0230"&gt;27b7c0d&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class="message"&gt;
+          &lt;blockquote&gt;I've not been happy with that header for ages.&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href="http://github.com/eightbitraptor" class="committer"&gt;eightbitraptor&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href="http://github.com/eightbitraptor/eightbitraptor.com/commit/b04583eca9ff441df70de82c877186f46f376c9f"&gt;b04583e&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class="message"&gt;
+          &lt;blockquote&gt;Point these somewhere until real content arrives.&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href="http://github.com/eightbitraptor" class="committer"&gt;eightbitraptor&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href="http://github.com/eightbitraptor/eightbitraptor.com/commit/2b75132bd291c94a2f63181666317b99cf9dae68"&gt;2b75132&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class="message"&gt;
+          &lt;blockquote&gt;update CV a little.&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+
+    
+    &lt;/ul&gt;
+    &lt;/div&gt;
+  
+&lt;/div&gt;
+
+
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/312762742</id>
+    <published>2010-09-16T08:10:00-07:00</published>
+    <updated>2010-09-16T08:10:00-07:00</updated>
+    <link type="text/html" rel="alternate" href="http://github.com/eightbitraptor/eightbitraptor.com/compare/6c2996aa54...1edf9cb906"/>
+    <title>eightbitraptor pushed to master at eightbitraptor/eightbitraptor.com</title>
+    <author>
+      <name>eightbitraptor</name>
+      <uri>http://github.com/eightbitraptor</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://secure.gravatar.com/avatar/43f0363b6c12155c36d0c06043c268fd?s=30&amp;d=https%3A%2F%2Fgithub.com%2Fimages%2Fgravatars%2Fgravatar-140.png"/>
+    <content type="html">
+
+
+
+
+
+
+&lt;div class="details"&gt;
+  
+
+  
+    &lt;div class="commits"&gt;
+    &lt;ul&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href="http://github.com/eightbitraptor" class="committer"&gt;eightbitraptor&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href="http://github.com/eightbitraptor/eightbitraptor.com/commit/1edf9cb906e38523b3e0a07d7d86e060d4adddc2"&gt;1edf9cb&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class="message"&gt;
+          &lt;blockquote&gt;tweet wasn't working so remove this for now.&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href="http://github.com/eightbitraptor" class="committer"&gt;eightbitraptor&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href="http://github.com/eightbitraptor/eightbitraptor.com/commit/faee5e249c3bdb37e207221b2e8371b2c188c63b"&gt;faee5e2&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class="message"&gt;
+          &lt;blockquote&gt;typos&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href="http://github.com/eightbitraptor" class="committer"&gt;eightbitraptor&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href="http://github.com/eightbitraptor/eightbitraptor.com/commit/b83c3c10e234e31b610a62398b20bbb0b962dcca"&gt;b83c3c1&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class="message"&gt;
+          &lt;blockquote&gt;panic2&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href="http://github.com/eightbitraptor" class="committer"&gt;eightbitraptor&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href="http://github.com/eightbitraptor/eightbitraptor.com/commit/295592b5e495251dacf3dc5c717ce74da06e944b"&gt;295592b&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class="message"&gt;
+          &lt;blockquote&gt;panic&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href="http://github.com/eightbitraptor" class="committer"&gt;eightbitraptor&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href="http://github.com/eightbitraptor/eightbitraptor.com/commit/5531bbac1af1f0870036531364966b0b5620a4e0"&gt;5531bba&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class="message"&gt;
+          &lt;blockquote&gt;make dev fort post publishable&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href="http://github.com/eightbitraptor" class="committer"&gt;eightbitraptor&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href="http://github.com/eightbitraptor/eightbitraptor.com/commit/5d54cb20e60ca3f4a8fe003b14357d87a6e1441f"&gt;5d54cb2&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class="message"&gt;
+          &lt;blockquote&gt;draft dev fort post&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href="http://github.com/eightbitraptor" class="committer"&gt;eightbitraptor&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href="http://github.com/eightbitraptor/eightbitraptor.com/commit/b4ce61b43002523cb09ed5b413320479e34fe64a"&gt;b4ce61b&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class="message"&gt;
+          &lt;blockquote&gt;A better default font.&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href="http://github.com/eightbitraptor" class="committer"&gt;eightbitraptor&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href="http://github.com/eightbitraptor/eightbitraptor.com/commit/89b1d185bff74a1fc2fd50dc644a4ca9d3a82193"&gt;89b1d18&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class="message"&gt;
+          &lt;blockquote&gt;Don't break in development mode.&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href="http://github.com/eightbitraptor" class="committer"&gt;eightbitraptor&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href="http://github.com/eightbitraptor/eightbitraptor.com/commit/a9d146fceedab08ce01b8a25dc920058bd0156aa"&gt;a9d146f&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class="message"&gt;
+          &lt;blockquote&gt;GWT Tracking meta tag&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href="http://github.com/eightbitraptor" class="committer"&gt;eightbitraptor&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href="http://github.com/eightbitraptor/eightbitraptor.com/commit/be501f2b38e0fa88f2d4a96a23df9a48702ef83d"&gt;be501f2&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class="message"&gt;
+          &lt;blockquote&gt;Add GA tracking.&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+
+    
+    &lt;/ul&gt;
+    &lt;/div&gt;
+  
+&lt;/div&gt;
+
+
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/267001274</id>
+    <published>2010-07-31T13:46:48-07:00</published>
+    <updated>2010-07-31T13:46:48-07:00</updated>
+    <link type="text/html" rel="alternate" href="http://github.com/eightbitraptor/eightbitraptor.com/compare/ec32cc1718...6c2996aa54"/>
+    <title>eightbitraptor pushed to master at eightbitraptor/eightbitraptor.com</title>
+    <author>
+      <name>eightbitraptor</name>
+      <uri>http://github.com/eightbitraptor</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://secure.gravatar.com/avatar/43f0363b6c12155c36d0c06043c268fd?s=30&amp;d=https%3A%2F%2Fgithub.com%2Fimages%2Fgravatars%2Fgravatar-140.png"/>
+    <content type="html">
+
+
+
+
+
+
+&lt;div class="details"&gt;
+  
+
+  
+    &lt;div class="commits"&gt;
+    &lt;ul&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href="http://github.com/eightbitraptor" class="committer"&gt;eightbitraptor&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href="http://github.com/eightbitraptor/eightbitraptor.com/commit/6c2996aa545f6f2a138c3b50a7393346cd72fe97"&gt;6c2996a&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class="message"&gt;
+          &lt;blockquote&gt;ZOMG NINJAS!!!111oneone!!!&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+
+    
+    &lt;/ul&gt;
+    &lt;/div&gt;
+  
+&lt;/div&gt;
+
+
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/264303432</id>
+    <published>2010-07-28T12:54:36-07:00</published>
+    <updated>2010-07-28T12:54:36-07:00</updated>
+    <link type="text/html" rel="alternate" href="http://github.com/eightbitraptor/eightbitraptor.com/compare/d40bcf7d18...ec32cc1718"/>
+    <title>eightbitraptor pushed to master at eightbitraptor/eightbitraptor.com</title>
+    <author>
+      <name>eightbitraptor</name>
+      <uri>http://github.com/eightbitraptor</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://secure.gravatar.com/avatar/43f0363b6c12155c36d0c06043c268fd?s=30&amp;d=https%3A%2F%2Fgithub.com%2Fimages%2Fgravatars%2Fgravatar-140.png"/>
+    <content type="html">
+
+
+
+
+
+
+&lt;div class="details"&gt;
+  
+
+  
+    &lt;div class="commits"&gt;
+    &lt;ul&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href="http://github.com/eightbitraptor" class="committer"&gt;eightbitraptor&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href="http://github.com/eightbitraptor/eightbitraptor.com/commit/ec32cc1718088448e4d121e21f9ecd6a209525eb"&gt;ec32cc1&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class="message"&gt;
+          &lt;blockquote&gt;Make the speech bubble darker.&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+
+    
+    &lt;/ul&gt;
+    &lt;/div&gt;
+  
+&lt;/div&gt;
+
+
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/264051422</id>
+    <published>2010-07-28T09:37:38-07:00</published>
+    <updated>2010-07-28T09:37:38-07:00</updated>
+    <link type="text/html" rel="alternate" href="http://github.com/eightbitraptor/eightbitraptor.com/compare/c50a74876b...d40bcf7d18"/>
+    <title>eightbitraptor pushed to master at eightbitraptor/eightbitraptor.com</title>
+    <author>
+      <name>eightbitraptor</name>
+      <uri>http://github.com/eightbitraptor</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://secure.gravatar.com/avatar/43f0363b6c12155c36d0c06043c268fd?s=30&amp;d=https%3A%2F%2Fgithub.com%2Fimages%2Fgravatars%2Fgravatar-140.png"/>
+    <content type="html">
+
+
+
+
+
+
+&lt;div class="details"&gt;
+  
+
+  
+    &lt;div class="commits"&gt;
+    &lt;ul&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href="http://github.com/eightbitraptor" class="committer"&gt;eightbitraptor&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href="http://github.com/eightbitraptor/eightbitraptor.com/commit/d40bcf7d18a791bfdcfbb33c7ffe7d69cfb312c2"&gt;d40bcf7&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class="message"&gt;
+          &lt;blockquote&gt;latest tweet in a speech bubble.&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href="http://github.com/eightbitraptor" class="committer"&gt;eightbitraptor&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href="http://github.com/eightbitraptor/eightbitraptor.com/commit/7689f96ad28756ae6cb9df330c94c3db841288ce"&gt;7689f96&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class="message"&gt;
+          &lt;blockquote&gt;new post, android sdk setup&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+
+    
+    &lt;/ul&gt;
+    &lt;/div&gt;
+  
+&lt;/div&gt;
+
+
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/261922233</id>
+    <published>2010-07-26T16:05:05-07:00</published>
+    <updated>2010-07-26T16:05:05-07:00</updated>
+    <link type="text/html" rel="alternate" href="http://github.com/eightbitraptor/eightbitraptor.com/compare/36864b1048...c50a74876b"/>
+    <title>eightbitraptor pushed to master at eightbitraptor/eightbitraptor.com</title>
+    <author>
+      <name>eightbitraptor</name>
+      <uri>http://github.com/eightbitraptor</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://secure.gravatar.com/avatar/43f0363b6c12155c36d0c06043c268fd?s=30&amp;d=https%3A%2F%2Fgithub.com%2Fimages%2Fgravatars%2Fgravatar-140.png"/>
+    <content type="html">
+
+
+
+
+
+
+&lt;div class="details"&gt;
+  
+
+  
+    &lt;div class="commits"&gt;
+    &lt;ul&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href="http://github.com/eightbitraptor" class="committer"&gt;eightbitraptor&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href="http://github.com/eightbitraptor/eightbitraptor.com/commit/c50a74876bf3bd1c464cf0341b629d1cd64846eb"&gt;c50a748&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class="message"&gt;
+          &lt;blockquote&gt;New Post, rss feeds.&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href="http://github.com/eightbitraptor" class="committer"&gt;eightbitraptor&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href="http://github.com/eightbitraptor/eightbitraptor.com/commit/b442ec6b4c9033b86ead70ea8e94850f7224350d"&gt;b442ec6&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class="message"&gt;
+          &lt;blockquote&gt;Add an RSS feed.&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href="http://github.com/eightbitraptor" class="committer"&gt;eightbitraptor&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href="http://github.com/eightbitraptor/eightbitraptor.com/commit/8baea38353cbcbfe8f5d3b798eb85a873b6f8639"&gt;8baea38&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class="message"&gt;
+          &lt;blockquote&gt;add anidb profile.&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href="http://github.com/eightbitraptor" class="committer"&gt;eightbitraptor&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href="http://github.com/eightbitraptor/eightbitraptor.com/commit/ef2fbfd27dcf4489a85b4724f4d265c51ffc710c"&gt;ef2fbfd&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class="message"&gt;
+          &lt;blockquote&gt;cleaning up some unused files.&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href="http://github.com/eightbitraptor" class="committer"&gt;eightbitraptor&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href="http://github.com/eightbitraptor/eightbitraptor.com/commit/0f376d21e961327b6b7ce3f9b91adf4bd80bbc42"&gt;0f376d2&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class="message"&gt;
+          &lt;blockquote&gt;forgot this, like an idiot :S&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href="http://github.com/eightbitraptor" class="committer"&gt;eightbitraptor&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href="http://github.com/eightbitraptor/eightbitraptor.com/commit/f221ab6d3b5b021032c9af8d27bb46798d5d79ce"&gt;f221ab6&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class="message"&gt;
+          &lt;blockquote&gt;don't forget to change the gem requirements&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href="http://github.com/eightbitraptor" class="committer"&gt;eightbitraptor&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href="http://github.com/eightbitraptor/eightbitraptor.com/commit/4748f3810706ea39df3f7f1087bd1e6afa108a4c"&gt;4748f38&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class="message"&gt;
+          &lt;blockquote&gt;Merge remote branch 'origin/master'&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href="http://github.com/eightbitraptor" class="committer"&gt;eightbitraptor&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href="http://github.com/eightbitraptor/eightbitraptor.com/commit/ea0f1d81a87a219cb19e20d262561def7d4410f9"&gt;ea0f1d8&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class="message"&gt;
+          &lt;blockquote&gt;make unimplemented stuff 404 by default.&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href="http://github.com/eightbitraptor" class="committer"&gt;eightbitraptor&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href="http://github.com/eightbitraptor/eightbitraptor.com/commit/b1f52d88871440f9b3f8824e02a1063d060469c7"&gt;b1f52d8&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class="message"&gt;
+          &lt;blockquote&gt;New Layout including decent syntax highlighting.&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href="http://github.com/eightbitraptor" class="committer"&gt;eightbitraptor&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href="http://github.com/eightbitraptor/eightbitraptor.com/commit/d2c20cb60da7be115180c57a25c5ad301f5df699"&gt;d2c20cb&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class="message"&gt;
+          &lt;blockquote&gt;make post render the textiles.&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href="http://github.com/eightbitraptor" class="committer"&gt;eightbitraptor&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href="http://github.com/eightbitraptor/eightbitraptor.com/commit/acb65bcae3937af7a869f4b3e232eeb9040e9b0b"&gt;acb65bc&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class="message"&gt;
+          &lt;blockquote&gt;whitespace&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href="http://github.com/eightbitraptor" class="committer"&gt;eightbitraptor&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href="http://github.com/eightbitraptor/eightbitraptor.com/commit/3503feb1579a75b978e99d5ae0e8e19540ce0266"&gt;3503feb&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class="message"&gt;
+          &lt;blockquote&gt;ick, haml&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href="http://github.com/eightbitraptor" class="committer"&gt;eightbitraptor&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href="http://github.com/eightbitraptor/eightbitraptor.com/commit/df972a8b5454b0c280c423e7d8e9ed8fc1de58b1"&gt;df972a8&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class="message"&gt;
+          &lt;blockquote&gt;Textile not markdown&lt;br&gt;
+&lt;br&gt;
+Maruku has trouble with pre tags containing non escaped chars.&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+
+    
+    &lt;/ul&gt;
+    &lt;/div&gt;
+  
+&lt;/div&gt;
+
+
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:CreateEvent/258941801</id>
+    <published>2010-07-23T02:18:49-07:00</published>
+    <updated>2010-07-23T02:18:49-07:00</updated>
+    <link type="text/html" rel="alternate" href="http://github.com/eightbitraptor/eightbitraptor.com/compare/master"/>
+    <title>eightbitraptor created branch master at eightbitraptor/eightbitraptor.com</title>
+    <author>
+      <name>eightbitraptor</name>
+      <uri>http://github.com/eightbitraptor</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://secure.gravatar.com/avatar/43f0363b6c12155c36d0c06043c268fd?s=30&amp;d=https%3A%2F%2Fgithub.com%2Fimages%2Fgravatars%2Fgravatar-140.png"/>
+    <content type="html">
+
+
+
+
+
+&lt;div class="details"&gt;
+  
+  &lt;div class="message"&gt;
+    
+      New branch is at
+      &lt;a href="http://github.com/eightbitraptor/eightbitraptor.com/tree/master"&gt;eightbitraptor/eightbitraptor.com/tree/master&lt;/a&gt;
+      
+    
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:CreateEvent/258941061</id>
+    <published>2010-07-23T02:15:10-07:00</published>
+    <updated>2010-07-23T02:15:10-07:00</updated>
+    <link type="text/html" rel="alternate" href="http://github.com/eightbitraptor/eightbitraptor.com"/>
+    <title>eightbitraptor created repository eightbitraptor.com</title>
+    <author>
+      <name>eightbitraptor</name>
+      <uri>http://github.com/eightbitraptor</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://secure.gravatar.com/avatar/43f0363b6c12155c36d0c06043c268fd?s=30&amp;d=https%3A%2F%2Fgithub.com%2Fimages%2Fgravatars%2Fgravatar-140.png"/>
+    <content type="html">
+
+
+
+
+
+&lt;div class="details"&gt;
+  
+  &lt;div class="message"&gt;
+    
+      
+    
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:FollowEvent/234580738</id>
+    <published>2010-06-23T04:06:31-07:00</published>
+    <updated>2010-06-23T04:06:31-07:00</updated>
+    <link type="text/html" rel="alternate" href="http://github.com/elliotcm"/>
+    <title>eightbitraptor started following elliotcm</title>
+    <author>
+      <name>eightbitraptor</name>
+      <uri>http://github.com/eightbitraptor</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://secure.gravatar.com/avatar/43f0363b6c12155c36d0c06043c268fd?s=30&amp;d=https%3A%2F%2Fgithub.com%2Fimages%2Fgravatars%2Fgravatar-140.png"/>
+    <content type="html">
+  
+  &lt;div class="details"&gt;
+    
+      
+    
+    &lt;div class="message"&gt;
+      elliotcm has
+      22
+      public repos
+      and 9
+     followers.
+    &lt;/div&gt;
+  &lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/228621099</id>
+    <published>2010-06-15T15:06:11-07:00</published>
+    <updated>2010-06-15T15:06:11-07:00</updated>
+    <link type="text/html" rel="alternate" href="http://github.com/eightbitraptor/dotfiles/compare/63380d4b77...1c7611203d"/>
+    <title>eightbitraptor pushed to master at eightbitraptor/dotfiles</title>
+    <author>
+      <name>eightbitraptor</name>
+      <uri>http://github.com/eightbitraptor</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://secure.gravatar.com/avatar/43f0363b6c12155c36d0c06043c268fd?s=30&amp;d=https%3A%2F%2Fgithub.com%2Fimages%2Fgravatars%2Fgravatar-140.png"/>
+    <content type="html">
+
+
+
+
+
+
+&lt;div class="details"&gt;
+  
+
+  
+    &lt;div class="commits"&gt;
+    &lt;ul&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href="http://github.com/eightbitraptor" class="committer"&gt;eightbitraptor&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href="http://github.com/eightbitraptor/dotfiles/commit/1c7611203da70130d3a0ede776869ca6d6fdc2d7"&gt;1c76112&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class="message"&gt;
+          &lt;blockquote&gt;make use the non railsy port&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href="http://github.com/eightbitraptor" class="committer"&gt;eightbitraptor&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href="http://github.com/eightbitraptor/dotfiles/commit/883fa19fc01a494e4522bff71a1adaed283b0067"&gt;883fa19&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class="message"&gt;
+          &lt;blockquote&gt;android sdk path to env&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href="http://github.com/eightbitraptor" class="committer"&gt;eightbitraptor&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href="http://github.com/eightbitraptor/dotfiles/commit/75c96153a48e503ee35b99daa208ab57e3dd92a8"&gt;75c9615&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class="message"&gt;
+          &lt;blockquote&gt;touch tmp/restart.txt is a useful alias to have&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href="http://github.com/eightbitraptor" class="committer"&gt;eightbitraptor&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href="http://github.com/eightbitraptor/dotfiles/commit/aa3e77eab91bdc517416e8b1e6b7a42c96c7ec06"&gt;aa3e77e&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class="message"&gt;
+          &lt;blockquote&gt;Reevoo Dev aliased.&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+
+    
+    &lt;/ul&gt;
+    &lt;/div&gt;
+  
+&lt;/div&gt;
+
+
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/223293314</id>
+    <published>2010-06-09T02:30:19-07:00</published>
+    <updated>2010-06-09T02:30:19-07:00</updated>
+    <link type="text/html" rel="alternate" href="http://github.com/eightbitraptor/http_redirect_test/compare/350bea58d0...ac5ade1672"/>
+    <title>eightbitraptor pushed to master at eightbitraptor/http_redirect_test</title>
+    <author>
+      <name>eightbitraptor</name>
+      <uri>http://github.com/eightbitraptor</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://secure.gravatar.com/avatar/43f0363b6c12155c36d0c06043c268fd?s=30&amp;d=https%3A%2F%2Fgithub.com%2Fimages%2Fgravatars%2Fgravatar-140.png"/>
+    <content type="html">
+
+
+
+
+
+
+&lt;div class="details"&gt;
+  
+
+  
+    &lt;div class="commits"&gt;
+    &lt;ul&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href="http://github.com/eightbitraptor" class="committer"&gt;eightbitraptor&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href="http://github.com/eightbitraptor/http_redirect_test/commit/ac5ade16722dd305f56baeb1fae32a7ed77bb0fc"&gt;ac5ade1&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class="message"&gt;
+          &lt;blockquote&gt;Merge branches 'nathan' and 'master'&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href="http://github.com/nathenharvey" class="committer"&gt;nathenharvey&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href="http://github.com/eightbitraptor/http_redirect_test/commit/eb59e851ce12445af4812610b08f0a48f1b14ce3"&gt;eb59e85&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class="message"&gt;
+          &lt;blockquote&gt;allow for query strings in the url that's being checked for redirect&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href="http://github.com/nathenharvey" class="committer"&gt;nathenharvey&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href="http://github.com/eightbitraptor/http_redirect_test/commit/453da64cfb2acac7543d8126f1e1c0db73fd192b"&gt;453da64&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class="message"&gt;
+          &lt;blockquote&gt;add mocha as a gem dependency and update the homepage&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+
+    
+    &lt;/ul&gt;
+    &lt;/div&gt;
+  
+&lt;/div&gt;
+
+
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/183461165</id>
+    <published>2010-04-13T06:35:23-07:00</published>
+    <updated>2010-04-13T06:35:23-07:00</updated>
+    <link type="text/html" rel="alternate" href="http://github.com/eightbitraptor/dotfiles/compare/44f865b575...63380d4b77"/>
+    <title>eightbitraptor pushed to master at eightbitraptor/dotfiles</title>
+    <author>
+      <name>eightbitraptor</name>
+      <uri>http://github.com/eightbitraptor</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://secure.gravatar.com/avatar/43f0363b6c12155c36d0c06043c268fd?s=30&amp;d=https%3A%2F%2Fgithub.com%2Fimages%2Fgravatars%2Fgravatar-140.png"/>
+    <content type="html">
+
+
+
+
+
+
+&lt;div class="details"&gt;
+  
+
+  
+    &lt;div class="commits"&gt;
+    &lt;ul&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href="http://github.com/eightbitraptor" class="committer"&gt;eightbitraptor&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href="http://github.com/eightbitraptor/dotfiles/commit/63380d4b77e6d1b485ff345f2fbb671178235386"&gt;63380d4&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class="message"&gt;
+          &lt;blockquote&gt;Revert &amp;quot;Add my Geany config, including custom syntax&amp;quot;&lt;br&gt;
+&lt;br&gt;
+This reverts commit 3f0f7dd24053761e9bb0c2c3416c859abae9e7e4.&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href="http://github.com/eightbitraptor" class="committer"&gt;eightbitraptor&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href="http://github.com/eightbitraptor/dotfiles/commit/47c9d3f2101b132538af8b816e1e1b8d6f5b89eb"&gt;47c9d3f&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class="message"&gt;
+          &lt;blockquote&gt;one liner to serve the current dir over http&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href="http://github.com/eightbitraptor" class="committer"&gt;eightbitraptor&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href="http://github.com/eightbitraptor/dotfiles/commit/05d31c4a2b19d415a0d32f06f328feedfb04e0c3"&gt;05d31c4&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class="message"&gt;
+          &lt;blockquote&gt;Make sure that we only try and use textmate when we're on a mac&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href="http://github.com/eightbitraptor" class="committer"&gt;eightbitraptor&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href="http://github.com/eightbitraptor/dotfiles/commit/f85a7950fbcd33e37aacb1e6fa34fc60c2181779"&gt;f85a795&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class="message"&gt;
+          &lt;blockquote&gt;Don't hard code paths.&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href="http://github.com/eightbitraptor" class="committer"&gt;eightbitraptor&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href="http://github.com/eightbitraptor/dotfiles/commit/e7709c80a984824aee649f406f7d23a92e4bcdb4"&gt;e7709c8&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class="message"&gt;
+          &lt;blockquote&gt;Make apt-get an alias to aptitude&lt;br&gt;
+&lt;br&gt;
+to get me out of bad habits&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href="http://github.com/eightbitraptor" class="committer"&gt;eightbitraptor&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href="http://github.com/eightbitraptor/dotfiles/commit/3f0f7dd24053761e9bb0c2c3416c859abae9e7e4"&gt;3f0f7dd&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class="message"&gt;
+          &lt;blockquote&gt;Add my Geany config, including custom syntax&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+
+    
+    &lt;/ul&gt;
+    &lt;/div&gt;
+  
+&lt;/div&gt;
+
+
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/175177725</id>
+    <published>2010-04-01T05:52:06-07:00</published>
+    <updated>2010-04-01T05:52:06-07:00</updated>
+    <link type="text/html" rel="alternate" href="http://github.com/eightbitraptor/dotfiles/compare/8f1401c7b0...44f865b575"/>
+    <title>eightbitraptor pushed to master at eightbitraptor/dotfiles</title>
+    <author>
+      <name>eightbitraptor</name>
+      <uri>http://github.com/eightbitraptor</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://secure.gravatar.com/avatar/43f0363b6c12155c36d0c06043c268fd?s=30&amp;d=https%3A%2F%2Fgithub.com%2Fimages%2Fgravatars%2Fgravatar-140.png"/>
+    <content type="html">
+
+
+
+
+
+
+&lt;div class="details"&gt;
+  
+
+  
+    &lt;div class="commits"&gt;
+    &lt;ul&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href="http://github.com/eightbitraptor" class="committer"&gt;eightbitraptor&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href="http://github.com/eightbitraptor/dotfiles/commit/44f865b57555e233be94919d041bca02214e426f"&gt;44f865b&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class="message"&gt;
+          &lt;blockquote&gt;some useful bash aliases&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+
+    
+    &lt;/ul&gt;
+    &lt;/div&gt;
+  
+&lt;/div&gt;
+
+
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/174677307</id>
+    <published>2010-03-31T13:09:21-07:00</published>
+    <updated>2010-03-31T13:09:21-07:00</updated>
+    <link type="text/html" rel="alternate" href="http://github.com/eightbitraptor/dotfiles/compare/9cf78c56fd...8f1401c7b0"/>
+    <title>eightbitraptor pushed to master at eightbitraptor/dotfiles</title>
+    <author>
+      <name>eightbitraptor</name>
+      <uri>http://github.com/eightbitraptor</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://secure.gravatar.com/avatar/43f0363b6c12155c36d0c06043c268fd?s=30&amp;d=https%3A%2F%2Fgithub.com%2Fimages%2Fgravatars%2Fgravatar-140.png"/>
+    <content type="html">
+
+
+
+
+
+
+&lt;div class="details"&gt;
+  
+
+  
+    &lt;div class="commits"&gt;
+    &lt;ul&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href="http://github.com/eightbitraptor" class="committer"&gt;eightbitraptor&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href="http://github.com/eightbitraptor/dotfiles/commit/8f1401c7b00e12acd06fc87c393d42fbd0f92b57"&gt;8f1401c&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class="message"&gt;
+          &lt;blockquote&gt;Add more stupid editor settings.&lt;br&gt;
+&lt;br&gt;
+because 2 obviously isn't enough&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href="http://github.com/eightbitraptor" class="committer"&gt;eightbitraptor&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href="http://github.com/eightbitraptor/dotfiles/commit/14dbfd83e3892ec3c2d824026dba5090380308b3"&gt;14dbfd8&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class="message"&gt;
+          &lt;blockquote&gt;the install script was ignoring the .bash dir&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href="http://github.com/eightbitraptor" class="committer"&gt;eightbitraptor&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href="http://github.com/eightbitraptor/dotfiles/commit/8e45238dc804755dd587bf7cb447c9e3d52dd187"&gt;8e45238&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class="message"&gt;
+          &lt;blockquote&gt;make vimrc non executable&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+
+    
+    &lt;/ul&gt;
+    &lt;/div&gt;
+  
+&lt;/div&gt;
+
+
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/174438712</id>
+    <published>2010-03-31T07:52:33-07:00</published>
+    <updated>2010-03-31T07:52:33-07:00</updated>
+    <link type="text/html" rel="alternate" href="http://github.com/eightbitraptor/dotfiles/compare/47a209ded6...9cf78c56fd"/>
+    <title>eightbitraptor pushed to master at eightbitraptor/dotfiles</title>
+    <author>
+      <name>eightbitraptor</name>
+      <uri>http://github.com/eightbitraptor</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://secure.gravatar.com/avatar/43f0363b6c12155c36d0c06043c268fd?s=30&amp;d=https%3A%2F%2Fgithub.com%2Fimages%2Fgravatars%2Fgravatar-140.png"/>
+    <content type="html">
+
+
+
+
+
+
+&lt;div class="details"&gt;
+  
+
+  
+    &lt;div class="commits"&gt;
+    &lt;ul&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href="http://github.com/eightbitraptor" class="committer"&gt;eightbitraptor&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href="http://github.com/eightbitraptor/dotfiles/commit/9cf78c56fd2c5ca8afaa3ed7d9cb7dec58ea8a99"&gt;9cf78c5&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class="message"&gt;
+          &lt;blockquote&gt;in fact delete all the tab shite in the vimrc&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+
+    
+    &lt;/ul&gt;
+    &lt;/div&gt;
+  
+&lt;/div&gt;
+
+
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/174436200</id>
+    <published>2010-03-31T07:51:26-07:00</published>
+    <updated>2010-03-31T07:51:26-07:00</updated>
+    <link type="text/html" rel="alternate" href="http://github.com/eightbitraptor/dotfiles/compare/cfa3799e86...47a209ded6"/>
+    <title>eightbitraptor pushed to master at eightbitraptor/dotfiles</title>
+    <author>
+      <name>eightbitraptor</name>
+      <uri>http://github.com/eightbitraptor</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://secure.gravatar.com/avatar/43f0363b6c12155c36d0c06043c268fd?s=30&amp;d=https%3A%2F%2Fgithub.com%2Fimages%2Fgravatars%2Fgravatar-140.png"/>
+    <content type="html">
+
+
+
+
+
+
+&lt;div class="details"&gt;
+  
+
+  
+    &lt;div class="commits"&gt;
+    &lt;ul&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href="http://github.com/eightbitraptor" class="committer"&gt;eightbitraptor&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href="http://github.com/eightbitraptor/dotfiles/commit/47a209ded651ad40d03bff63f57ff6872ef2d0e0"&gt;47a209d&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class="message"&gt;
+          &lt;blockquote&gt;Add an install script for new machines&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+
+    
+    &lt;/ul&gt;
+    &lt;/div&gt;
+  
+&lt;/div&gt;
+
+
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/174427111</id>
+    <published>2010-03-31T07:33:30-07:00</published>
+    <updated>2010-03-31T07:33:30-07:00</updated>
+    <link type="text/html" rel="alternate" href="http://github.com/eightbitraptor/dotfiles/compare/4e7eefb868...cfa3799e86"/>
+    <title>eightbitraptor pushed to master at eightbitraptor/dotfiles</title>
+    <author>
+      <name>eightbitraptor</name>
+      <uri>http://github.com/eightbitraptor</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://secure.gravatar.com/avatar/43f0363b6c12155c36d0c06043c268fd?s=30&amp;d=https%3A%2F%2Fgithub.com%2Fimages%2Fgravatars%2Fgravatar-140.png"/>
+    <content type="html">
+
+
+
+
+
+
+&lt;div class="details"&gt;
+  
+
+  
+    &lt;div class="commits"&gt;
+    &lt;ul&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href="http://github.com/eightbitraptor" class="committer"&gt;eightbitraptor&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href="http://github.com/eightbitraptor/dotfiles/commit/cfa3799e8614ce376a54a3b825b5d1ae1bd7565a"&gt;cfa3799&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class="message"&gt;
+          &lt;blockquote&gt;Can haz gitcfg pls?&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href="http://github.com/eightbitraptor" class="committer"&gt;eightbitraptor&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href="http://github.com/eightbitraptor/dotfiles/commit/3112a6e1c558a4e5d6325dab0f387b1488744551"&gt;3112a6e&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class="message"&gt;
+          &lt;blockquote&gt;Get rid of Ctrl-W mappings&lt;br&gt;
+&lt;br&gt;
+I don't use tabs anyway and Ctrl-W is too useful for other things&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href="http://github.com/eightbitraptor" class="committer"&gt;eightbitraptor&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href="http://github.com/eightbitraptor/dotfiles/commit/15f7d676a6ed8a3ba1224287d06237ba4678b62b"&gt;15f7d67&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class="message"&gt;
+          &lt;blockquote&gt;Dry up .bashrc and history&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href="http://github.com/eightbitraptor" class="committer"&gt;eightbitraptor&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href="http://github.com/eightbitraptor/dotfiles/commit/06a323150acb2124fba9a6da73ff6b0e57601acb"&gt;06a3231&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class="message"&gt;
+          &lt;blockquote&gt;Everytime your prompt distorts Stephen Bourne kills a kitten&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href="http://github.com/eightbitraptor" class="committer"&gt;eightbitraptor&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href="http://github.com/eightbitraptor/dotfiles/commit/59ebe793519bd2bfc015d820fed5882402355182"&gt;59ebe79&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class="message"&gt;
+          &lt;blockquote&gt;Ship that Mother!!11!!&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href="http://github.com/eightbitraptor" class="committer"&gt;eightbitraptor&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href="http://github.com/eightbitraptor/dotfiles/commit/53239db0631df77017c7e7ccd36aa60755111253"&gt;53239db&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class="message"&gt;
+          &lt;blockquote&gt;open_gem wants this variable set&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href="http://github.com/eightbitraptor" class="committer"&gt;eightbitraptor&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href="http://github.com/eightbitraptor/dotfiles/commit/ce3dbca643376b971fd0c03dab5889856d635613"&gt;ce3dbca&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class="message"&gt;
+          &lt;blockquote&gt;some more aliases&lt;br&gt;
+&lt;br&gt;
+to my todo list and to clear the junk puppet puts in the crontab&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+
+    
+    &lt;/ul&gt;
+    &lt;/div&gt;
+  
+&lt;/div&gt;
+
+
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/174397520</id>
+    <published>2010-03-31T06:56:57-07:00</published>
+    <updated>2010-03-31T06:56:57-07:00</updated>
+    <link type="text/html" rel="alternate" href="http://github.com/eightbitraptor/useful_scripts/compare/4a2a0e7697...e6e37901da"/>
+    <title>eightbitraptor pushed to master at eightbitraptor/useful_scripts</title>
+    <author>
+      <name>eightbitraptor</name>
+      <uri>http://github.com/eightbitraptor</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://secure.gravatar.com/avatar/43f0363b6c12155c36d0c06043c268fd?s=30&amp;d=https%3A%2F%2Fgithub.com%2Fimages%2Fgravatars%2Fgravatar-140.png"/>
+    <content type="html">
+
+
+
+
+
+
+&lt;div class="details"&gt;
+  
+
+  
+    &lt;div class="commits"&gt;
+    &lt;ul&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href="http://github.com/eightbitraptor" class="committer"&gt;eightbitraptor&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href="http://github.com/eightbitraptor/useful_scripts/commit/e6e37901da784237db45383c4470a0f6a4db6151"&gt;e6e3790&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class="message"&gt;
+          &lt;blockquote&gt;This is useless&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+
+    
+    &lt;/ul&gt;
+    &lt;/div&gt;
+  
+&lt;/div&gt;
+
+
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/172585126</id>
+    <published>2010-03-29T03:19:38-07:00</published>
+    <updated>2010-03-29T03:19:38-07:00</updated>
+    <link type="text/html" rel="alternate" href="http://github.com/eightbitraptor/dotfiles/compare/7571d35c49...4e7eefb868"/>
+    <title>eightbitraptor pushed to master at eightbitraptor/dotfiles</title>
+    <author>
+      <name>eightbitraptor</name>
+      <uri>http://github.com/eightbitraptor</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://secure.gravatar.com/avatar/43f0363b6c12155c36d0c06043c268fd?s=30&amp;d=https%3A%2F%2Fgithub.com%2Fimages%2Fgravatars%2Fgravatar-140.png"/>
+    <content type="html">
+
+
+
+
+
+
+&lt;div class="details"&gt;
+  
+
+  
+    &lt;div class="commits"&gt;
+    &lt;ul&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href="http://github.com/eightbitraptor" class="committer"&gt;eightbitraptor&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href="http://github.com/eightbitraptor/dotfiles/commit/4e7eefb8687f90523f10393e75f8e2478cb18975"&gt;4e7eefb&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class="message"&gt;
+          &lt;blockquote&gt;whitespace&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+
+    
+    &lt;/ul&gt;
+    &lt;/div&gt;
+  
+&lt;/div&gt;
+
+
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/172584926</id>
+    <published>2010-03-29T03:18:39-07:00</published>
+    <updated>2010-03-29T03:18:39-07:00</updated>
+    <link type="text/html" rel="alternate" href="http://github.com/eightbitraptor/dotfiles/compare/885502ae26...7571d35c49"/>
+    <title>eightbitraptor pushed to master at eightbitraptor/dotfiles</title>
+    <author>
+      <name>eightbitraptor</name>
+      <uri>http://github.com/eightbitraptor</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://secure.gravatar.com/avatar/43f0363b6c12155c36d0c06043c268fd?s=30&amp;d=https%3A%2F%2Fgithub.com%2Fimages%2Fgravatars%2Fgravatar-140.png"/>
+    <content type="html">
+
+
+
+
+
+
+&lt;div class="details"&gt;
+  
+
+  
+    &lt;div class="commits"&gt;
+    &lt;ul&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href="http://github.com/eightbitraptor" class="committer"&gt;eightbitraptor&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href="http://github.com/eightbitraptor/dotfiles/commit/7571d35c497c6d11cff5d2a57b08d32d59fd9e63"&gt;7571d35&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class="message"&gt;
+          &lt;blockquote&gt;some small cleanup changes&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href="http://github.com/eightbitraptor" class="committer"&gt;eightbitraptor&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href="http://github.com/eightbitraptor/dotfiles/commit/93c906c44247ef1d9aaafca27fbf4a5fc1c05545"&gt;93c906c&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class="message"&gt;
+          &lt;blockquote&gt;add mplayer config&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href="http://github.com/eightbitraptor" class="committer"&gt;eightbitraptor&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href="http://github.com/eightbitraptor/dotfiles/commit/4fa87332879d5873d970a5b6e5ed95d71b723b3f"&gt;4fa8733&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class="message"&gt;
+          &lt;blockquote&gt;Add screen config.&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href="http://github.com/eightbitraptor" class="committer"&gt;eightbitraptor&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href="http://github.com/eightbitraptor/dotfiles/commit/cf84bfb85192f2cde3797a0ec64932a6a2275def"&gt;cf84bfb&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class="message"&gt;
+          &lt;blockquote&gt;Git completion&lt;br&gt;
+&lt;br&gt;
+Forced past gitignore, loaded from .bashrc&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+
+    
+    &lt;/ul&gt;
+    &lt;/div&gt;
+  
+&lt;/div&gt;
+
+
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/172581590</id>
+    <published>2010-03-29T03:05:19-07:00</published>
+    <updated>2010-03-29T03:05:19-07:00</updated>
+    <link type="text/html" rel="alternate" href="http://github.com/eightbitraptor/dotfiles/compare/d36a22a8fa...885502ae26"/>
+    <title>eightbitraptor pushed to master at eightbitraptor/dotfiles</title>
+    <author>
+      <name>eightbitraptor</name>
+      <uri>http://github.com/eightbitraptor</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://secure.gravatar.com/avatar/43f0363b6c12155c36d0c06043c268fd?s=30&amp;d=https%3A%2F%2Fgithub.com%2Fimages%2Fgravatars%2Fgravatar-140.png"/>
+    <content type="html">
+
+
+
+
+
+
+&lt;div class="details"&gt;
+  
+
+  
+    &lt;div class="commits"&gt;
+    &lt;ul&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href="http://github.com/eightbitraptor" class="committer"&gt;eightbitraptor&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href="http://github.com/eightbitraptor/dotfiles/commit/885502ae2628aa3ebc761750d6998c7d38d64d4b"&gt;885502a&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class="message"&gt;
+          &lt;blockquote&gt;Bash changes, set $VISUAL&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+
+    
+    &lt;/ul&gt;
+    &lt;/div&gt;
+  
+&lt;/div&gt;
+
+
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/172581338</id>
+    <published>2010-03-29T03:03:46-07:00</published>
+    <updated>2010-03-29T03:03:46-07:00</updated>
+    <link type="text/html" rel="alternate" href="http://github.com/eightbitraptor/dotfiles/compare/add974d7be...d36a22a8fa"/>
+    <title>eightbitraptor pushed to master at eightbitraptor/dotfiles</title>
+    <author>
+      <name>eightbitraptor</name>
+      <uri>http://github.com/eightbitraptor</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://secure.gravatar.com/avatar/43f0363b6c12155c36d0c06043c268fd?s=30&amp;d=https%3A%2F%2Fgithub.com%2Fimages%2Fgravatars%2Fgravatar-140.png"/>
+    <content type="html">
+
+
+
+
+
+
+&lt;div class="details"&gt;
+  
+
+  
+    &lt;div class="commits"&gt;
+    &lt;ul&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href="http://github.com/eightbitraptor" class="committer"&gt;eightbitraptor&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href="http://github.com/eightbitraptor/dotfiles/commit/d36a22a8fa07ffee2b7d1ab33e8c7bd5b89c05e2"&gt;d36a22a&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class="message"&gt;
+          &lt;blockquote&gt;Basic Gitignore, and alias changed&lt;br&gt;
+&lt;br&gt;
+cdgems no longer required with rvm&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+
+    
+    &lt;/ul&gt;
+    &lt;/div&gt;
+  
+&lt;/div&gt;
+
+
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:CreateEvent/172580314</id>
+    <published>2010-03-29T03:00:02-07:00</published>
+    <updated>2010-03-29T03:00:02-07:00</updated>
+    <link type="text/html" rel="alternate" href="http://github.com/eightbitraptor/dotfiles/compare/master"/>
+    <title>eightbitraptor created branch master at eightbitraptor/dotfiles</title>
+    <author>
+      <name>eightbitraptor</name>
+      <uri>http://github.com/eightbitraptor</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://secure.gravatar.com/avatar/43f0363b6c12155c36d0c06043c268fd?s=30&amp;d=https%3A%2F%2Fgithub.com%2Fimages%2Fgravatars%2Fgravatar-140.png"/>
+    <content type="html">
+
+
+
+
+
+&lt;div class="details"&gt;
+  
+  &lt;div class="message"&gt;
+    
+      New branch is at
+      &lt;a href="http://github.com/eightbitraptor/dotfiles/tree/master"&gt;eightbitraptor/dotfiles/tree/master&lt;/a&gt;
+      
+    
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:CreateEvent/172576492</id>
+    <published>2010-03-29T02:45:43-07:00</published>
+    <updated>2010-03-29T02:45:43-07:00</updated>
+    <link type="text/html" rel="alternate" href="http://github.com/eightbitraptor/dotfiles"/>
+    <title>eightbitraptor created repository dotfiles</title>
+    <author>
+      <name>eightbitraptor</name>
+      <uri>http://github.com/eightbitraptor</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://secure.gravatar.com/avatar/43f0363b6c12155c36d0c06043c268fd?s=30&amp;d=https%3A%2F%2Fgithub.com%2Fimages%2Fgravatars%2Fgravatar-140.png"/>
+    <content type="html">
+
+
+
+
+
+&lt;div class="details"&gt;
+  
+  &lt;div class="message"&gt;
+    
+      
+    
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+</feed>
+
