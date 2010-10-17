@@ -18,8 +18,8 @@ spec = Gem::Specification.new do |s|
   s.homepage          = "http://eightbitraptor.com"
 
   s.has_rdoc          = false
-  s.files             = %w() + Dir.glob("{lib/**/*}")
-  s.require_paths     = ["lib", "test"]
+  s.files             = %w(README.md Rakefile) + Dir.glob("lib/**/*") + Dir.glob("test/**/*")
+  s.require_paths     = ["lib"]
 
   s.add_dependency("nokogiri", "~> 1.4.0")
   s.add_dependency("simple-rss", "~> 1.2.0")
