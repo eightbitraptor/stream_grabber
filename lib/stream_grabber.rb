@@ -1,6 +1,7 @@
 require 'stream_grabber/last_fm'
 require 'stream_grabber/github'
 require 'stream_grabber/twitter'
+require 'rails'
 
 if ENV['OFFLINE']
   # use test data if we are developing offline
@@ -8,6 +9,10 @@ if ENV['OFFLINE']
 end
 
 module StreamGrabber
+
+  class Engine < Rails::Engine
+    engine_name :stream_grabber
+  end
 
   USERNAMES = {
     :last_fm => 'theshadowaspect',
