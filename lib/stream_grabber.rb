@@ -2,6 +2,11 @@ require 'stream_grabber/last_fm'
 require 'stream_grabber/github'
 require 'stream_grabber/twitter'
 
+if ENV['OFFLINE']
+  # use test data if we are developing offline
+  require File.expand_path(File.join(File.dirname(__FILE__), *%w[.. test test_helper.rb]))
+end
+
 module StreamGrabber
 
   USERNAMES = {
