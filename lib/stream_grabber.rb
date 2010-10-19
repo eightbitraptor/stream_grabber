@@ -18,8 +18,8 @@ module StreamGrabber
     :twitter => 'eightbitraptor'
   }
 
-  class Overlord
-    def self.mux_stream
+  class << self
+    def mux_stream
       messages = {}
       StreamGrabber.constants.each do |klass|
         k = StreamGrabber.const_get(klass)
@@ -31,15 +31,14 @@ module StreamGrabber
       end
       arr = messages.sort.reverse
     end
-  end
 
-  class << self
     def grab_all
-      Overlord.mux_stream
+      mux_stream
     end
 
     def grab(n)
-      Overlord.mux_stream.first(n)
+      mux_stream.first(n)
+    end
     end
   end
 

@@ -3,7 +3,7 @@ require File.join(File.dirname(__FILE__), *%w[test_helper])
 class StreamGrabberTest < Test::Unit::TestCase
   context "Multiplexing the streams" do
     setup do
-      @results = StreamGrabber.grab
+      @results = StreamGrabber.grab(5)
     end
 
     should "show the most recent results" do
