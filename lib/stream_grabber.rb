@@ -10,9 +10,7 @@ end
 
 module StreamGrabber
 
-  class Engine < Rails::Engine
-    engine_name :stream_grabber
-  end
+  class Engine < Rails::Engine; end
 
   USERNAMES = {
     :last_fm => 'theshadowaspect',
