@@ -33,8 +33,14 @@ module StreamGrabber
     end
   end
 
-  def self.grab
-    Overlord.mux_stream
+  class << self
+    def grab_all
+      Overlord.mux_stream
+    end
+
+    def grab(n)
+      Overlord.mux_stream.first(n)
+    end
   end
-  
+
 end
