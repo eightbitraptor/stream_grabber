@@ -1,0 +1,22 @@
+PATH
+  remote: .
+  specs:
+    stream_grabber (0.1.0)
+      nokogiri (~> 1.4.0)
+      simple-rss (~> 1.2.0)
+
+GEM
+  remote: http://rubygems.org/
+  specs:
+    fakeweb (1.2.8)
+    nokogiri (1.4.4)
+    shoulda (2.11.3)
+    simple-rss (1.2.3)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  fakeweb (~> 1.2.0)
+  shoulda (~> 2.11.0)
+  stream_grabber!
