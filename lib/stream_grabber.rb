@@ -39,7 +39,6 @@ module StreamGrabber
     def grab(n)
       mux_stream.first(n)
     end
-    end
   end
 
 end
