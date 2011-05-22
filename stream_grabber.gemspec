@@ -12,6 +12,7 @@ Gem::Specification.new do |s|
 
   s.add_dependency("nokogiri", "~> 1.4.0")
   s.add_dependency("simple-rss", "~> 1.2.0")
+  s.add_dependency("json")
   s.add_development_dependency("fakeweb", "~> 1.2.0")
   s.add_development_dependency("shoulda", "~> 2.11.0")
 end
