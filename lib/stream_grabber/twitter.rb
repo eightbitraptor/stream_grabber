@@ -12,7 +12,7 @@ module StreamGrabber
       tweets = {}
       @doc.each do |tweet|
         date = Time.parse(tweet["created_at"]).to_i
-        tweets[date] = message_from(tweet["text"], tweet["id"])
+        tweets[date] = [:twitter, message_from(tweet["text"], tweet["id"])]
       end
       tweets
     end

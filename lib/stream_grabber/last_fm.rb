@@ -16,7 +16,7 @@ module StreamGrabber
         artist_name = elem.css('artist > name').text
         track_name = elem.>('name').text
         url = elem.>('url').text
-        tracks[date_loved] = message_for(artist_name,track_name, url)
+        tracks[date_loved] = [:lastfm, message_for(artist_name,track_name, url)]
       end
       tracks
     end

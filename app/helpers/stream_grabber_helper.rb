@@ -5,7 +5,7 @@ module StreamGrabberHelper
       css_id = args.first[:id]
     end
 
-    data = StreamGrabber.grab(num).inject([]){ |memo,acc| memo << content_tag(:li,raw(acc[1])) }
+    data = StreamGrabber.grab(num).inject([]){ |memo,acc| memo << content_tag(:li,raw(acc[1][1]), :class => acc[1][0]) }
 
     content_tag :ol, {:class => css_class || 'activity_list', :id => css_id || 'stream_grabber'} do 
       raw(data.join("\n"))

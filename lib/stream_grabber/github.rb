@@ -12,7 +12,7 @@ module StreamGrabber
       commits = {}
       @doc.items.first(5).each do |item|
         date = Time.parse(item[:updated].to_s).to_i
-        commits[date] = message_from(item[:link], item[:title])
+        commits[date] = [:github, message_from(item[:link], item[:title])]
       end
       commits
     end

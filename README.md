@@ -57,11 +57,17 @@ following interface
       end
     end
 
-And as long as `last_five` returns a hash with timestamps as keys, then
-whatever is in the hash values will be squirted into the `li` elements
-in the resulting list.
+And as long as `last_five` returns a hash with timestamps as keys, the
+value of each key is an array of the form
 
-Over engineered? Damn Straight!!
+    [:classname, "value"]
+
+where `:classname` is a symbol representing what css class you want `li`
+elements for that source to have and `"value"` is whatever string
+content you want to display in the body.
+
+Over engineered? Damn Straight!! You can see it in action [in the
+sidebar of my homepage](http://eightbitraptor.com)
 
 If you want to add sources, please give me a pull request and I'll merge
 them straight in.
