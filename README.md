@@ -11,7 +11,7 @@ you'll need to give it your username for these sites. Create
 following
 
     :twitter: username
-    :lastfm: username
+    :last_fm: username
     :github: username
 
 And then you can include the plugin in your Gemfile like so
