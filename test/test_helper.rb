@@ -1,6 +1,7 @@
 require 'fakeweb'
 require 'open-uri'
 require 'shoulda'
+require 'mocha'
 
 require File.join(File.dirname(__FILE__), *%w[.. lib stream_grabber])
 

@@ -5,8 +5,16 @@ StreamGrabber is a way of multiplexing streams and feeds together into a timelin
 
 Usage
 -----
+At the moment StreamGrabber supports Twitter, last.fm and Github so
+you'll need to give it your username for these sites. Create
+`#{RAILS_ROOT}/config/stream_grabber.yml` so that it looks like the
+following
 
-Simply include the app in your Gemfile like so
+    :twitter: username
+    :lastfm: username
+    :github: username
+
+And then you can include the plugin in your Gemfile like so
 
     gem 'stream_grabber'
 

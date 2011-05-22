@@ -3,6 +3,7 @@ require File.join(File.dirname(__FILE__), *%w[test_helper])
 class StreamGrabberTest < Test::Unit::TestCase
   context "Multiplexing the streams" do
     setup do
+      StreamGrabber.stubs(:usernames).returns(usernames)
       @results = StreamGrabber.grab(5)
     end
 
@@ -14,6 +15,7 @@ class StreamGrabberTest < Test::Unit::TestCase
 
   context "Passing in a ridiculously high number" do
     setup do
+      StreamGrabber.stubs(:usernames).returns(usernames)
       @results = StreamGrabber.grab(53)
     end
 
@@ -25,5 +27,13 @@ class StreamGrabberTest < Test::Unit::TestCase
 
   def expected_timestamps
     [1287353685, 1287351412, 1287342471, 1287340078, 1287328637]
+  end
+
+  def usernames
+    {
+      :twitter => 'eightbitraptor',
+      :lastfm => 'theshadowaspect',
+      :github => 'eightbitraptor'
+    }
   end
 end
