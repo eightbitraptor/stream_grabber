@@ -1,7 +1,7 @@
 StreamGrabber
 =============
 
-StreamGrabber is a way of multiplexing streams and feeds together into a timeline, it supports twitter, last.fm and github at the moment but is designed to be fairly trivial to add new sources, providing they have some kind of public facing data stream…
+StreamGrabber is a Rails Engine that can be included in your application to multiplex streams and feeds together into a timeline, it supports twitter, last.fm and github at the moment but is designed to be fairly trivial to add new sources, providing they have some kind of public facing data stream…
 
 Usage
 -----
