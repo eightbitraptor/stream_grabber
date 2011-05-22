@@ -18,7 +18,7 @@ module StreamGrabber
     end
 
     def message_from(link, title)
-      %Q{<a href="#{link}">#{title}</a>"}
+      %Q{<a href="#{link}">#{title}</a>}
     end
   end
 end
