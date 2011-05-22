@@ -18,7 +18,7 @@ module StreamGrabber
     end
 
     def message_from(text, id)
-      %Q{<a href="http://twitter.com/#{@user_name}/#{id}">#{text}</a>}
+      %Q{<a href="http://twitter.com/#{@user_name}/status/#{id}">#{text}</a>}
     end
 
   end
