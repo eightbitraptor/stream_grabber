@@ -14,6 +14,6 @@ Gem::Specification.new do |s|
   s.add_dependency("simple-rss", "~> 1.2.0")
   s.add_dependency("json", "~> 1.4.6")
   s.add_development_dependency("fakeweb", "~> 1.2.0")
-  s.add_development_dependancy("mocha", "~> 0.9.12")
+  s.add_development_dependency("mocha", "~> 0.9.12")
   s.add_development_dependency("shoulda", "~> 2.11.0")
 end
