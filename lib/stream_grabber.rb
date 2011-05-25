@@ -13,10 +13,11 @@ module StreamGrabber
   class Engine < Rails::Engine; end
 
   class << self
-      raw_config = File.read(Rails.root.to_s + "config/stream_grabber.yml")
-      APP_CONFIG = YAML.load(raw_config)
-    # now we should be able to do the following APP_CONFIG[:github][:username] APP_CONFIG[:github][:api_key]
-   
+    def set_config
+      raw_config = File.read(Rails.root.to_s + "/config/stream_grabber.yml")
+      @app_config ||= YAML.load(raw_config)
+      @app_config
+    end
 
     def mux_stream
       messages = {}
