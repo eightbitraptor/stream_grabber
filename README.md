@@ -10,9 +10,16 @@ you'll need to give it your username for these sites. Create
 `#{RAILS_ROOT}/config/stream_grabber.yml` so that it looks like the
 following
 
-    :twitter: username
-    :last_fm: username
-    :github: username
+    :twitter: 
+      username: username
+
+    :last_fm: 
+      username: username
+      api_key: api_key
+   
+    :github: 
+      username: username
+      api_key: api_key
 
 And then you can include the plugin in your Gemfile like so
 
@@ -47,7 +54,7 @@ following interface
 
     module StreamGrabber
       class Twitter
-        def initialize(user_name)
+        def initialize(user_name, api_key)
           # do your setup in here to grab and parse the stream
         end
 

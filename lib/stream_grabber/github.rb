@@ -4,8 +4,8 @@ require 'pp'
 
 module StreamGrabber
   class Github
-    def initialize(user_name)
-      @doc = SimpleRSS.parse(open("https://github.com/#{user_name}.private.actor.atom?token=4ec7548d4e071bdc85462077a69bcdf2"))
+    def initialize(user_name, api_key)
+      @doc = SimpleRSS.parse(open("https://github.com/#{user_name}.private.actor.atom?token=#{api_key}"))
     end
 
     def last_five

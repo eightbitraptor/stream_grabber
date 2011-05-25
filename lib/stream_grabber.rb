@@ -13,9 +13,10 @@ module StreamGrabber
   class Engine < Rails::Engine; end
 
   class << self
-    def usernames
-      @usernames ||= YAML.load_file(Rails.root + 'config/stream_grabber.yml')
-    end
+      raw_config = File.read(Rails.root.to_s + "config/stream_grabber.yml")
+      APP_CONFIG = YAML.load(raw_config)
+    # now we should be able to do the following APP_CONFIG[:github][:username] APP_CONFIG[:github][:api_key]
+   
 
     def mux_stream
       messages = {}
@@ -23,8 +24,9 @@ module StreamGrabber
         k = StreamGrabber.const_get(klass)
         if k.instance_of?(Class) and k.method_defined?('last_five')
           name = k.name.partition('::').last.underscore.downcase
-          user_name = usernames[name.to_sym]
-          messages.merge!(k.new(user_name).send(:last_five))
+          user_name = APP_CONFIG[name.to_sym][:username]
+          api_key = APP_CONFIG[name.to_sym][:api_key]
+          messages.merge!(k.new(user_name, api_key).send(:last_five))
         end
       end
       arr = messages.sort.reverse

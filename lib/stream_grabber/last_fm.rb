@@ -3,9 +3,9 @@ require 'open-uri'
 
 module StreamGrabber
   class LastFm
-    def initialize(user_name)
+    def initialize(user_name, api_key)
       @user_name = user_name
-      @doc ||= Nokogiri::XML(open("http://ws.audioscrobbler.com/2.0/?method=user.getlovedtracks&user=#{user_name}&api_key=b25b959554ed76058ac220b7b2e0a026"))
+      @doc ||= Nokogiri::XML(open("http://ws.audioscrobbler.com/2.0/?method=user.getlovedtracks&user=#{user_name}&api_key=#{api_key}"))
     end
 
     def last_five
