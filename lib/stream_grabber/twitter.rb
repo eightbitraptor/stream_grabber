@@ -3,7 +3,7 @@ require 'open-uri'
 
 module StreamGrabber
   class Twitter
-    def initialize(user_name)
+    def initialize(user_name, api_key=nil)
       @user_name = user_name
       @doc = JSON.load(open("http://api.twitter.com/1/statuses/user_timeline.json?count=6&screen_name=#{user_name}"))
     end

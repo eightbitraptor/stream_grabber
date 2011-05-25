@@ -1,7 +1,8 @@
 PATH
   remote: .
   specs:
-    stream_grabber (0.1.0)
+    stream_grabber (0.1.3)
+      json
       nokogiri (~> 1.4.0)
       simple-rss (~> 1.2.0)
 
@@ -9,6 +10,8 @@ GEM
   remote: http://rubygems.org/
   specs:
     fakeweb (1.2.8)
+    json (1.5.1)
+    mocha (0.9.12)
     nokogiri (1.4.4)
     shoulda (2.11.3)
     simple-rss (1.2.3)
@@ -18,5 +21,6 @@ PLATFORMS
 
 DEPENDENCIES
   fakeweb (~> 1.2.0)
+  mocha (~> 0.9.12)
   shoulda (~> 2.11.0)
   stream_grabber!

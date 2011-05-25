@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name              = "stream_grabber"
-  s.version           = "0.1.3"
+  s.version           = "0.1.4"
   s.summary           = "Yo dawg! I heard you like feeds so I multiplexed them"
   s.author            = "Matt House"
   s.email             = "matt@eightbitraptor.com"
