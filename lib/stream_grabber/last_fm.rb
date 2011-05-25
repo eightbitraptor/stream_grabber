@@ -22,7 +22,7 @@ module StreamGrabber
     end
 
     def message_for(artist, title, url)
-      %Q{ #{@user_name} loved the track <a href="#{url}">#{title} by #{artist}</a> on Last.fm }
+      %Q{ <a href="#{url}">#{@user_name} loved the track #{title} by #{artist} on Last.fm</a>  }
     end
   end
 end
