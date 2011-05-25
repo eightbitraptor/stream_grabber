@@ -24,8 +24,8 @@ module StreamGrabber
         k = StreamGrabber.const_get(klass)
         if k.instance_of?(Class) and k.method_defined?('last_five')
           name = k.name.partition('::').last.underscore.downcase
-          user_name = APP_CONFIG[name.to_sym][:username]
-          api_key = APP_CONFIG[name.to_sym][:api_key]
+          user_name = set_config[name.to_sym]["username"]
+          api_key = set_config[name.to_sym]["api_key"]
           messages.merge!(k.new(user_name, api_key).send(:last_five))
         end
       end
